@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/parana-clothing/static/css/main.ce099472.chunk.css",
+    "main.js": "/parana-clothing/static/js/main.c821eb93.chunk.js",
+    "main.js.map": "/parana-clothing/static/js/main.c821eb93.chunk.js.map",
+    "runtime-main.js": "/parana-clothing/static/js/runtime-main.d0509081.js",
+    "runtime-main.js.map": "/parana-clothing/static/js/runtime-main.d0509081.js.map",
+    "static/js/2.7314ef2a.chunk.js": "/parana-clothing/static/js/2.7314ef2a.chunk.js",
+    "static/js/2.7314ef2a.chunk.js.map": "/parana-clothing/static/js/2.7314ef2a.chunk.js.map",
+    "index.html": "/parana-clothing/index.html",
+    "precache-manifest.5e3033d146bf5a9d116d0025f2e54d53.js": "/parana-clothing/precache-manifest.5e3033d146bf5a9d116d0025f2e54d53.js",
+    "service-worker.js": "/parana-clothing/service-worker.js",
+    "static/css/main.ce099472.chunk.css.map": "/parana-clothing/static/css/main.ce099472.chunk.css.map",
+    "static/media/logo.ed28accb.svg": "/parana-clothing/static/media/logo.ed28accb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0509081.js",
+    "static/js/2.7314ef2a.chunk.js",
+    "static/css/main.ce099472.chunk.css",
+    "static/js/main.c821eb93.chunk.js"
+  ]
+}
